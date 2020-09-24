@@ -2,7 +2,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@Muhamma11049470-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Muhamma11049470)](https://twitter.com/Muhamma11049470) 
 [![Linkedin Badge](https://img.shields.io/badge/-mohammad--javad--shabani77-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-javad-shabani77/)](https://www.linkedin.com/in/mohammad-javad-shabani77/)
-[![Telegram Badge](https://img.shields.io/badge/-@Muhamma11049470-4f8aff?style=flat-square&labelColor=4f8aff&logo=telegram&logoColor=white&link=https://t.me/Muhammad_Javad_Shabani)](https://t.me/Muhammad_Javad_Shabani) 
+[![Telegram Badge](https://img.shields.io/badge/-@MuhammadــJavad_ـShabani-4f8aff?style=flat-square&labelColor=4f8aff&logo=telegram&logoColor=white&link=https://t.me/Muhammad_Javad_Shabani)](https://t.me/Muhammad_Javad_Shabani) 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
 
