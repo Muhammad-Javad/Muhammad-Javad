@@ -7,7 +7,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
 
 ### Hi guys 👋
-I'm a 22 years old Android Developer 👨‍💻 who is passionate about mobile technologies and open source 👀. I'm Live in Iran.
+I'm a 22 years old Android Developer 👨‍💻 who is passionate about mobile technologies and open source 👀. I live in Iran.
 
 - 🔭 I’m currently improving Architecture Design of Application.
 - 🌱 I’m currently improving Kotlin coroutine.
